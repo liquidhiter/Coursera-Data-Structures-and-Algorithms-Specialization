@@ -1,2 +1,3 @@
 # Coursera-Data-Structures-and-Algorithms-Specialization
-Personal repo containing implementations of all demo algorithms and assignments.
+
+I am taking this online course for fun during my lesiure time.
