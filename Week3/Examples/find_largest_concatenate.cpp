@@ -20,7 +20,6 @@ ll find_largest_concatenate(std::vector<int> numbers) {
     ll multiplier = 1;
     size_t size_of_numbers = numbers.size();
     for (size_t i = 0; i < size_of_numbers; ++i) {
-        std::cout << "current i = " << i << std::endl;
         largest_number += numbers.at(i) * multiplier;
         multiplier *= 10;
     }
